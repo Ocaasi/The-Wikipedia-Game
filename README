@@ -1,6 +1,9 @@
-Welcome to the Wikipedia Game code project.  
-The Wikipedia Game is the working title of an interactive new editor tutorial for Wikipedia.  
+Welcome to the Wikipedia Game code project!
+The Wikipedia Game is the working title of an interactive, new-editor tutorial for Wikipedia.  
 We're brainstorming several ideas right now and want to draft a clear plan for the coding approach.  
+
+The idea is to create a web-based experience, like an interactive tour in a realistic Wikipedia environment.
+It should emulate or run mediawiki with the Vector skin.
 
 It may include:
 * Mediawiki
@@ -11,12 +14,9 @@ It may include:
 * Flash
 * HTML 5
 
-The idea is to create a web-based experience, like an interactive tour in a realistic Wikipedia environment.
-It should emulate or run mediawiki with the Vector skin.
-
-The environment can be closed but must have some working links and allow  editable on mock articles.  
-The majority of the game is just sequential dialogue boxes, but there are some interactive components:
-  text choices, warnings, a reg-ex bad words filter, etc.
+The environment can be closed but must have some working links and allow editing on mock articles and mock-editor interaction.  
+The majority of the game is just sequential dialogue boxes, but there are some interactive components.
+They include text choices, warnings, a reg-ex bad words filter, etc.
 
 The game should be clean, simple, fun, realistic, and enjoyable to play.  
 There are 12 levels and each one should take about 5-10 minutes to play resulting in 1-2 hours of gameplay.
@@ -26,6 +26,8 @@ Modules which require more involved coding include:
 * dialogue choices
 * article editing
 * real-time user notices (i.e. new messages)
+* reg-ex filter
+* warnings
 
 This game will be fully open sourced and released to the Wikipedia community.  
 The license under a free use, reuse, modification, and commercial adaptation license.  Attribution would be nice.

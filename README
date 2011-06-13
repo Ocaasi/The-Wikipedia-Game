@@ -11,8 +11,8 @@ It may include:
 * Mediawiki extensions
 * PHP
 * Javascript
-* Flash
 * HTML 5
+* Flash
 
 The environment can be closed but must have some working links and allow editing on mock articles and mock-editor interaction.  
 The majority of the game is just sequential dialogue boxes, but there are some interactive components.
